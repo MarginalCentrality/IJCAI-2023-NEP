@@ -1,3 +1,8 @@
+# Setup the Conda Environment
+```shell
+conda env create --file environment.yml
+```
+
 # Reinforcement Learning Pretraining
 Reinforcement Learning (RL) pretraining involves training models on small datasets and assessing their performance on instances sampled from in-distribution (ID) or  out-of-distribution (OOD). The directories RL-Pretraining-NEP-AM and RL-Pretraining-NEP-HAM are utilized for NEP-AM and NEP-HAM, respectively.
 
